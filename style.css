@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+
+
+h1 {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.main {
+  
+}
+
+img {
+    float: left;
+}
+
